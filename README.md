@@ -2,7 +2,7 @@
 
 An interactive educational web application that visualizes how the **Big M method** works in Mixed-Integer Linear Programming (MILP).
 
-🔗 **Live Demo**: *(add your Streamlit Community Cloud URL here)*
+🔗 **Live Demo**: *(add your Streamlit Community Cloud URL [here](https://milp-big-m-simulator-htdjoj9nzimwg3lgztfzzd.streamlit.app/))*
 
 ---
 
